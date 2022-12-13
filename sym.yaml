@@ -23,5 +23,5 @@ deploy:
       url: https://kubernetes.github.io/ingress-nginx
 test: # Starts
   - image: ubuntu:focal
-    command: echo hello
+    command: echo hello world
 preview: {} # Creates preview cluster on PRs
