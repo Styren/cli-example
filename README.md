@@ -1,2 +1,2 @@
 test
-xx
+x
