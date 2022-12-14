@@ -1,3 +1,2 @@
 tex
-AX
-A
+AXA
