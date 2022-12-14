@@ -1,4 +1,1 @@
-tex
-XX
-ABABAA
-A
+AAY
