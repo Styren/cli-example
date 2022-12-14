@@ -1,3 +1,3 @@
 tex
 XX
-ABAB
+ABABAA
