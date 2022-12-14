@@ -1,8 +1,1 @@
-test
-z
-xx
-AAA
-ZAA
-X
-X
-A
+AY
