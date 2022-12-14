@@ -24,4 +24,6 @@ deploy:
 test: # Starts
   - image: ubuntu:focal
     command: echo hello
+  - image: ubuntu:focal
+    command: 12512451raxaxError
 preview: {} # Creates preview cluster on PRs
