@@ -2,5 +2,5 @@ test
 z
 xx
 AAA
-ZA
+ZAA
 X
